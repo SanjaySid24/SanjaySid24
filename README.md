@@ -46,5 +46,6 @@ Issued by Amazon Web Services (May 2025)
 ## 📫 Contact
 
 - Email: sanjaysidmail@gmail.com  
-- GitHub: [https://github.com/yourusername](https://github.com/SanjaySid24)  
-- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/sanjay-sid/)
+- GitHub:( https://github.com/SanjaySid24 )  
+- LinkedIn:( https://www.linkedin.com/in/sanjay-sid/)
+ 
